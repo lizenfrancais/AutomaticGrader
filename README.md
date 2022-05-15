@@ -10,6 +10,10 @@ Enter the information into the program and let the computer do the rest of the w
 No more doubling back to make sure you gave students with similar samples the same results.
 Increase your confidence that you are scoring consistently throughout the course.
 
+To properly run this program, please, make sure to download all of the files in this repository. The program will not work without all the files.
+
 This program is designed to work with the rubrics created by Clover School District for Levels 1 and 2.
 Rubrics were created with AAPPL subdivisions in mind.
 You may access the rubrics here: https://drive.google.com/drive/folders/1tzJKnrw07YaVWYuie-NyCLwBy5iXu4D9?usp=sharing
+
+Be on the lookout for version updates!
