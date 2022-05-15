@@ -14,6 +14,7 @@ To properly run this program, please, make sure to download all of the files in 
 
 This program is designed to work with the rubrics created by Clover School District for Levels 1 and 2.
 Rubrics were created with AAPPL subdivisions in mind.
+
 You may access the rubrics here: https://drive.google.com/drive/folders/1tzJKnrw07YaVWYuie-NyCLwBy5iXu4D9?usp=sharing
 
 Be on the lookout for version updates!
